@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**El3Pdrin/El3Pdrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Pedro Henrique 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software na Universidade Veiga de Almeida (UVA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor em formação, interessado em Desenvolvimento de Software e Backend.
+
+## 🚀 Sobre mim
+
+- 📚 Cursando Engenharia de Software.
+- 💡 Estudando lógica de programação e linguagem C.
+- 🔭 Desenvolvendo projetos acadêmicos e pessoais.
+- 🎯 Em busca da minha primeira oportunidade de estágio em Desenvolvimento de Software.
+- 🌱 Sempre buscando aprender e evoluir.
+
+## 🛠️ Tecnologias e ferramentas
+
+- C
+- Dev-C++
+- Java (em aprendizado)
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/pedr0silvadev/
